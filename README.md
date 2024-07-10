@@ -1,7 +1,7 @@
 # vehicle_insurance_insights
 Dataset from an vehicle insurance company with anonimized customers and no customer features
 
---- Introdution ---
+Introdution 
 
 This Jupyter Notebook presents the effort to gather, assess, analize, clean, prepare and model an insurance company data, available at https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction.
 
